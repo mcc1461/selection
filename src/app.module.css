@@ -1,0 +1,27 @@
+
+.mcc {
+  width: 41rem;
+  background: #283655;
+  color: #d0e1f9;
+  font-size: 1.9rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  outline: none;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  margin: 5rem auto 3rem;
+}
+.mcc-multiple, .mcc-single {
+  display: block;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto -2.5rem;
+  color: red;
+}
+
+.mcc-single {
+  margin-top: 21rem;
+}
