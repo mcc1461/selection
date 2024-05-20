@@ -17,8 +17,6 @@
     "jsx": "react-jsx"
   },
   "include": ["src"],
-  "references": [{ "path": "./tsconfig.node.json" }],
-  "dependencies": {
-    "postcss-capital-parser": "4.2.0"
-  }
+  "references": [{ "path": "./tsconfig.node.json" }]
+  
 }
